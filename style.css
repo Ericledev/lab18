@@ -1,0 +1,45 @@
+.bg-img1{
+  
+    background-size: cover;
+    background-color: #000;
+    background-image: url(/images/clojure.png);
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(/images/scala.png);
+}
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(/images/python.png);
+
+}
+
+.carousel-item{
+    /* width: 30rem; */
+    height: 32rem;
+}
+.carousel-inner {
+    /* position: relative;
+    width: 100%; */
+    /* overflow: visible;
+    margin-top: 300px; */
+}
+/*  */
+/*  */
+/* .carousel-control-prev-icon{
+    stroke: red;
+}
+
+#mycarousel{
+    margin-top: 70px !important;
+}
+#myCarousel #btn-pre{
+    stroke: blue;
+}
+
+.border-primary{
+    border: 1px solid red !important;
+    height: 50px;
+} */
